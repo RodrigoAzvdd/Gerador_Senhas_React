@@ -10,7 +10,7 @@ Este é um projeto pessoal que desenvolvi usando as seguintes tecnologias:
 
 ## Descrição
 
-Trata-se de um gerador de senhas aleatórias que permite definir o comprimento da senha e escolher se deseja incluir caracteres especiais, letras maiúsculas, letras minúsculas e números.
+Trata-se de um gerador de senhas aleatórias compostas por caracteres especiais, letras maiúsculas, letras minúsculas e números.
 
 Sinta-se à vontade para explorar o código-fonte e adaptar o projeto de acordo com suas necessidades!
 
