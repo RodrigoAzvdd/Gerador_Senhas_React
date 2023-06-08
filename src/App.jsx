@@ -44,7 +44,10 @@ export default () => {
                         textInput={generate.password} 
                     />
                 </section>
-                <Footer />
+                <Footer
+                    href1={"https://www.linkedin.com/in/rodrigo-azevedo-aa5141239/"}
+                    href2={"https://github.com/RodrigoAzvdd"}
+                />
             </div>
         </>
     )
