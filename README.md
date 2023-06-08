@@ -5,7 +5,8 @@ Este é um projeto pessoal que desenvolvi usando as seguintes tecnologias:
 - Vite
 - React
 - JavaScript
-- Sass
+- CSS
+- SASS
 
 ## Descrição
 
