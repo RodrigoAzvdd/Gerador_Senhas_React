@@ -9,7 +9,6 @@ export default () => {
     const generate = useGenerate()
     const copy = useClickCheck()
     
-    //nome paioso, mas foi o meu maximo na criatividade
     const firstHandleClick = () => {
         copy.changeTextCopy(generate.password)
     }
